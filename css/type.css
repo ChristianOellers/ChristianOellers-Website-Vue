@@ -1,0 +1,9 @@
+/* Fix until next rebuild */
+
+h1 {
+  font-size: clamp(1rem, 10vw, 5rem);
+}
+
+h2 {
+  font-size: clamp(1rem, 8vw, 3rem);
+}
